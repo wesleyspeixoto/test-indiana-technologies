@@ -1,0 +1,7 @@
+Flask
+Flask-Cors
+Flask-JWT-Extended
+Flask-RESTful
+flask_sqlalchemy
+psycopg2
+python-dotenv
